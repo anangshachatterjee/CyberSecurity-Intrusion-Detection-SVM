@@ -21,7 +21,7 @@ This project uses Support Vector Machine (Linear SVM) to classify network traffi
 - NumPy
 - Pandas
 
-## Run
+## Run in Command Prompt
 
 python train_cybersecurity_IDS.py
 
