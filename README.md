@@ -20,6 +20,8 @@ This project uses Support Vector Machine (Linear SVM) to classify network traffi
 - Joblib
 - NumPy
 - Pandas
+- OpenPyXL
+- Uvicorn
 
 ## Run in Command Prompt
 
